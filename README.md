@@ -1,6 +1,6 @@
 ### ☀️ By day 
 
-Researching generalisation & adaptation in RL. Also interested in AI4Science and Causality. Open to collaborations, [reach out](mailto:me@evangelos.ai)
+Researching generalisation & adaptation in RL. Also interested in AI4Science and Causality.
 
 ### 🌙 By night
 
